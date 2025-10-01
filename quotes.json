@@ -1,34 +1,370 @@
 [
-  { "text": "The greatest glory in living lies not in never falling, but in rising every time we fall.", "author": "Nelson Mandela" },
-  { "text": "The way to get started is to quit talking and begin doing.", "author": "Walt Disney" },
-  { "text": "Your time is limited, so don't waste it living someone else's life.", "author": "Steve Jobs" },
-  { "text": "If life were predictable it would cease to be life, and be without flavor.", "author": "Eleanor Roosevelt" },
-  { "text": "If you look at what you have in life, you’ll always have more.", "author": "Oprah Winfrey" },
-  { "text": "If you set your goals ridiculously high and it’s a failure, you will fail above everyone else’s success.", "author": "James Cameron" },
-  { "text": "Life is what happens when you’re busy making other plans.", "author": "John Lennon" },
-  { "text": "Spread love everywhere you go. Let no one ever come to you without leaving happier.", "author": "Mother Teresa" },
-  { "text": "When you reach the end of your rope, tie a knot in it and hang on.", "author": "Franklin D. Roosevelt" },
-  { "text": "Always remember that you are absolutely unique. Just like everyone else.", "author": "Margaret Mead" },
-  { "text": "Don’t judge each day by the harvest you reap but by the seeds that you plant.", "author": "Robert Louis Stevenson" },
-  { "text": "The future belongs to those who believe in the beauty of their dreams.", "author": "Eleanor Roosevelt" },
-  { "text": "Tell me and I forget. Teach me and I remember. Involve me and I learn.", "author": "Benjamin Franklin" },
-  { "text": "The best and most beautiful things in the world cannot be seen or even touched – they must be felt with the heart.", "author": "Helen Keller" },
-  { "text": "It is during our darkest moments that we must focus to see the light.", "author": "Aristotle" },
-  { "text": "Whoever is happy will make others happy too.", "author": "Anne Frank" },
-  { "text": "Do not go where the path may lead, go instead where there is no path and leave a trail.", "author": "Ralph Waldo Emerson" },
-  { "text": "You will face many defeats in life, but never let yourself be defeated.", "author": "Maya Angelou" },
-  { "text": "The purpose of our lives is to be happy.", "author": "Dalai Lama" },
-  { "text": "In the end, it’s not the years in your life that count. It’s the life in your years.", "author": "Abraham Lincoln" },
-  { "text": "Never let the fear of striking out keep you from playing the game.", "author": "Babe Ruth" },
-  { "text": "Life is either a daring adventure or nothing at all.", "author": "Helen Keller" },
-  { "text": "Many of life’s failures are people who did not realize how close they were to success when they gave up.", "author": "Thomas Edison" },
-  { "text": "Keep smiling, because life is a beautiful thing and there’s so much to smile about.", "author": "Marilyn Monroe" },
-  { "text": "The only impossible journey is the one you never begin.", "author": "Tony Robbins" },
-  { "text": "In this life we cannot do great things. We can only do small things with great love.", "author": "Mother Teresa" },
-  { "text": "Only a life lived for others is a life worthwhile.", "author": "Albert Einstein" },
-  { "text": "The purpose of life is not to be happy. It is to be useful, to be honorable, to be compassionate, to have it make some difference that you have lived and lived well.", "author": "Ralph Waldo Emerson" },
-  { "text": "Success is not final, failure is not fatal: It is the courage to continue that counts.", "author": "Winston Churchill" },
-  { "text": "Happiness is not something ready made. It comes from your own actions.", "author": "Dalai Lama" },
-  { "text": "Life is really simple, but we insist on making it complicated.", "author": "Confucius" },
-  { "text": "Love the life you live. Live the life you love.", "author": "Bob Marley" }
+  {
+    "text": "A single spark of hope can light an entire path of possibilities.",
+    "author": "Paul"
+  },
+  {
+    "text": "The future is not a place we reach, it is a story we write every day.",
+    "author": "Paul"
+  },
+  {
+    "text": "Even the smallest step forward is proof that you refused to stand still.",
+    "author": "Paul"
+  },
+  {
+    "text": "Greatness is rarely loud; it is often built in quiet, consistent effort.",
+    "author": "Paul"
+  },
+  {
+    "text": "Your story can inspire someone else to keep turning the pages of their own.",
+    "author": "Paul"
+  },
+  {
+    "text": "What you nurture grows—be careful where you plant your energy.",
+    "author": "Paul"
+  },
+  {
+    "text": "A dream without courage is just a picture in your mind.",
+    "author": "Paul"
+  },
+  {
+    "text": "Your scars are not shame—they are proof that you survived the battles others never saw.",
+    "author": "Paul"
+  },
+  {
+    "text": "The sunrise doesn’t ask for permission to shine, neither should you.",
+    "author": "Paul"
+  },
+  {
+    "text": "You are not behind in life; you are exactly where your lessons are meant to shape you.",
+    "author": "Paul"
+  },
+  {
+    "text": "When you water gratitude, joy blossoms without asking.",
+    "author": "Paul"
+  },
+  {
+    "text": "Hope is the bridge that carries us from doubt to destiny.",
+    "author": "Paul"
+  },
+  {
+    "text": "Strength doesn’t come from avoiding storms but from learning to dance in the rain.",
+    "author": "Paul"
+  },
+  {
+    "text": "What you see as an ending may only be the beginning of something better.",
+    "author": "Paul"
+  },
+  {
+    "text": "Your light may feel small, but to someone lost in the dark, it means everything.",
+    "author": "Paul"
+  },
+  {
+    "text": "Every mountain looks impossible until your feet touch the peak.",
+    "author": "Paul"
+  },
+  {
+    "text": "Kindness is the type of wealth that multiplies every time you spend it.",
+    "author": "Paul"
+  },
+  {
+    "text": "Do not measure your worth by what you achieve, but by what you inspire in others.",
+    "author": "Paul"
+  },
+  {
+    "text": "The hardest battles produce the most inspiring victories.",
+    "author": "Paul"
+  },
+  {
+    "text": "Your life is a message—make sure it speaks of courage and love.",
+    "author": "Paul"
+  },
+  {
+    "text": "A new chapter begins the moment you decide not to quit.",
+    "author": "Paul"
+  },
+  {
+    "text": "Never underestimate the power of one kind word—it can change a destiny.",
+    "author": "Paul"
+  },
+  {
+    "text": "Every sunrise whispers: yesterday is gone, today is yours to create.",
+    "author": "Paul"
+  },
+  {
+    "text": "The person you admire is just someone who refused to stop trying.",
+    "author": "Paul"
+  },
+  {
+    "text": "Healing is not weakness; it is proof of your resilience.",
+    "author": "Paul"
+  },
+  {
+    "text": "You inspire more people by being real than by being perfect.",
+    "author": "Paul"
+  },
+  {
+    "text": "Your future self is quietly cheering for the choices you make today.",
+    "author": "Paul"
+  },
+  {
+    "text": "Big miracles often arrive dressed as small daily actions.",
+    "author": "Paul"
+  },
+  {
+    "text": "The road may be long, but each step confirms you are moving forward.",
+    "author": "Paul"
+  },
+  {
+    "text": "What breaks you today can become the story that inspires tomorrow.",
+    "author": "Paul"
+  },
+  {
+    "text": "Dreams do not expire; they wait patiently for you to believe again.",
+    "author": "Paul"
+  },
+  {
+    "text": "Be the kind of person who plants hope in every heart you meet.",
+    "author": "Paul"
+  },
+  {
+    "text": "Life’s beauty is not in its perfection, but in its persistence.",
+    "author": "Paul"
+  },
+  {
+    "text": "Your silence can be powerful if it carries wisdom and peace.",
+    "author": "Paul"
+  },
+  {
+    "text": "You carry within you more answers than you think you lack.",
+    "author": "Paul"
+  },
+  {
+    "text": "Even in the darkest caves, one candle is enough to lead the way.",
+    "author": "Paul"
+  },
+  {
+    "text": "Your failures are not wasted; they are fuel for your next rise.",
+    "author": "Paul"
+  },
+  {
+    "text": "When you inspire one person, you indirectly inspire many others you may never meet.",
+    "author": "Paul"
+  },
+  {
+    "text": "The greatest inspiration is not found in speeches but in silent actions that uplift others.",
+    "author": "Paul"
+  },
+  {
+    "text": "Every heartbeat is a reminder that your story isn’t finished yet.",
+    "author": "Paul"
+  },
+  {
+    "text": "Sometimes the smallest seed of belief grows into the strongest tree of success.",
+    "author": "Paul"
+  },
+  {
+    "text": "The beauty of life is that you can start again at any sunrise.",
+    "author": "Paul"
+  },
+  {
+    "text": "Faith is not about knowing the path, but trusting the journey.",
+    "author": "Paul"
+  },
+  {
+    "text": "Inspiration doesn’t shout; it whispers in moments of stillness.",
+    "author": "Paul"
+  },
+  {
+    "text": "Your courage today could be the hope someone holds onto tomorrow.",
+    "author": "Paul"
+  },
+  {
+    "text": "The climb is hard, but the view is worth every step.",
+    "author": "Paul"
+  },
+  {
+    "text": "The most inspiring light often shines from the most broken places.",
+    "author": "Paul"
+  },
+  {
+    "text": "If the door closes, it only means you are being redirected to a better one.",
+    "author": "Paul"
+  },
+  {
+    "text": "True strength is not shown in muscles, but in mercy.",
+    "author": "Paul"
+  },
+  {
+    "text": "A heart full of gratitude sees blessings in the smallest things.",
+    "author": "Paul"
+  },
+  {
+    "text": "Your breath is proof that life is still offering you a chance.",
+    "author": "Paul"
+  },
+  {
+    "text": "Success begins with the courage to imagine it as possible.",
+    "author": "Paul"
+  },
+  {
+    "text": "Don’t rush the process; even flowers bloom in their season.",
+    "author": "Paul"
+  },
+  {
+    "text": "One act of kindness can echo louder than a thousand speeches.",
+    "author": "Paul"
+  },
+  {
+    "text": "The more storms you endure, the stronger your roots grow.",
+    "author": "Paul"
+  },
+  {
+    "text": "Your journey may inspire someone to finally take their first step.",
+    "author": "Paul"
+  },
+  {
+    "text": "The right words at the right time can rescue a soul from despair.",
+    "author": "Paul"
+  },
+  {
+    "text": "Courage is contagious; when you rise, others will too.",
+    "author": "Paul"
+  },
+  {
+    "text": "Be a lighthouse: steady, bright, and guiding, even in storms.",
+    "author": "Paul"
+  },
+  {
+    "text": "Dreams may rest, but they never truly die within a hopeful heart.",
+    "author": "Paul"
+  },
+  {
+    "text": "You don’t need to be perfect to inspire; you only need to be real.",
+    "author": "Paul"
+  },
+  {
+    "text": "The best inspiration is born from struggles overcome in silence.",
+    "author": "Paul"
+  },
+  {
+    "text": "Your greatest legacy will be the lives you lifted when they were down.",
+    "author": "Paul"
+  },
+  {
+    "text": "Keep going—you may be closer to the breakthrough than you think.",
+    "author": "Paul"
+  },
+  {
+    "text": "Every closed door is proof that not everything was meant for you, and that’s okay.",
+    "author": "Paul"
+  },
+  {
+    "text": "Patience is the hidden strength that unlocks miracles.",
+    "author": "Paul"
+  },
+  {
+    "text": "You don’t need all the answers to move forward; you only need faith for the next step.",
+    "author": "Paul"
+  },
+  {
+    "text": "Happiness is not found in having it all, but in appreciating it all.",
+    "author": "Paul"
+  },
+  {
+    "text": "The more you give inspiration, the more it multiplies in you.",
+    "author": "Paul"
+  },
+  {
+    "text": "Don’t despise small beginnings; every tree once lived in a seed.",
+    "author": "Paul"
+  },
+  {
+    "text": "Your testimony today could be the light in someone’s darkest night.",
+    "author": "Paul"
+  },
+  {
+    "text": "The strength you seek often appears in the middle of weakness.",
+    "author": "Paul"
+  },
+  {
+    "text": "When you inspire others, you leave behind footprints that never fade.",
+    "author": "Paul"
+  },
+  {
+    "text": "Every season of waiting prepares you for a harvest worth the delay.",
+    "author": "Paul"
+  },
+  {
+    "text": "Love and kindness are the only investments that never fail.",
+    "author": "Paul"
+  },
+  {
+    "text": "What you call a setback today may become tomorrow’s greatest setup.",
+    "author": "Paul"
+  },
+  {
+    "text": "The most ordinary life can leave the most extraordinary impact.",
+    "author": "Paul"
+  },
+  {
+    "text": "Courage is not the absence of fear, but the refusal to let fear lead.",
+    "author": "Paul"
+  },
+  {
+    "text": "Your life is a blank page—be brave enough to write in bold letters.",
+    "author": "Paul"
+  },
+  {
+    "text": "Every obstacle carries within it the seed of a new strength.",
+    "author": "Paul"
+  },
+  {
+    "text": "Gratitude is the secret that turns struggles into stepping stones.",
+    "author": "Paul"
+  },
+  {
+    "text": "Your presence is enough; sometimes showing up is the true victory.",
+    "author": "Paul"
+  },
+  {
+    "text": "The difference between despair and hope is often just one more try.",
+    "author": "Paul"
+  },
+  {
+    "text": "You are not too late; life is still waiting for you to begin again.",
+    "author": "Paul"
+  },
+  {
+    "text": "Every day you wake up is proof that your story still has unwritten pages.",
+    "author": "Paul"
+  },
+  {
+    "text": "True inspiration is not in what you say, but in how you live.",
+    "author": "Paul"
+  },
+  {
+    "text": "The most powerful inspiration is born from silent resilience.",
+    "author": "Paul"
+  },
+  {
+    "text": "One smile in pain can inspire hope in a thousand broken hearts.",
+    "author": "Paul"
+  },
+  {
+    "text": "Don’t fear new beginnings; they often hide the answers you’ve been seeking.",
+    "author": "Paul"
+  },
+  {
+    "text": "Your life can be a mirror of hope if you choose to keep walking forward.",
+    "author": "Paul"
+  },
+  {
+    "text": "Sometimes all the world needs is your courage to believe again.",
+    "author": "Paul"
+  },
+  {
+    "text": "A single kind act can become someone’s lifelong source of inspiration.",
+    "author": "Paul"
+  }
 ]
